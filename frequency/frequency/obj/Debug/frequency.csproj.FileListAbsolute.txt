@@ -1,0 +1,6 @@
+C:\sandbox\frequency\frequency\bin\Debug\frequency.exe.config
+C:\sandbox\frequency\frequency\bin\Debug\frequency.exe
+C:\sandbox\frequency\frequency\bin\Debug\frequency.pdb
+C:\sandbox\frequency\frequency\obj\Debug\frequency.csprojResolveAssemblyReference.cache
+C:\sandbox\frequency\frequency\obj\Debug\frequency.exe
+C:\sandbox\frequency\frequency\obj\Debug\frequency.pdb

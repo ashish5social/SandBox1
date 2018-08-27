@@ -1,0 +1,6 @@
+C:\sandbox\ValidPathCircle\ValidPathCircle\bin\Debug\ValidPathCircle.exe.config
+C:\sandbox\ValidPathCircle\ValidPathCircle\bin\Debug\ValidPathCircle.exe
+C:\sandbox\ValidPathCircle\ValidPathCircle\bin\Debug\ValidPathCircle.pdb
+C:\sandbox\ValidPathCircle\ValidPathCircle\obj\Debug\ValidPathCircle.csprojResolveAssemblyReference.cache
+C:\sandbox\ValidPathCircle\ValidPathCircle\obj\Debug\ValidPathCircle.exe
+C:\sandbox\ValidPathCircle\ValidPathCircle\obj\Debug\ValidPathCircle.pdb

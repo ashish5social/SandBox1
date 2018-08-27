@@ -1,0 +1,6 @@
+C:\sandbox\AppleAndOrange\AppleAndOrange\bin\Debug\AppleAndOrange.exe.config
+C:\sandbox\AppleAndOrange\AppleAndOrange\bin\Debug\AppleAndOrange.exe
+C:\sandbox\AppleAndOrange\AppleAndOrange\bin\Debug\AppleAndOrange.pdb
+C:\sandbox\AppleAndOrange\AppleAndOrange\obj\Debug\AppleAndOrange.csprojResolveAssemblyReference.cache
+C:\sandbox\AppleAndOrange\AppleAndOrange\obj\Debug\AppleAndOrange.exe
+C:\sandbox\AppleAndOrange\AppleAndOrange\obj\Debug\AppleAndOrange.pdb

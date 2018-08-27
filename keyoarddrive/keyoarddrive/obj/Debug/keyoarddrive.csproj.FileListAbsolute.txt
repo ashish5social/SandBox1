@@ -1,0 +1,6 @@
+C:\sandbox\keyoarddrive\keyoarddrive\bin\Debug\keyoarddrive.exe.config
+C:\sandbox\keyoarddrive\keyoarddrive\bin\Debug\keyoarddrive.exe
+C:\sandbox\keyoarddrive\keyoarddrive\bin\Debug\keyoarddrive.pdb
+C:\sandbox\keyoarddrive\keyoarddrive\obj\Debug\keyoarddrive.csprojResolveAssemblyReference.cache
+C:\sandbox\keyoarddrive\keyoarddrive\obj\Debug\keyoarddrive.exe
+C:\sandbox\keyoarddrive\keyoarddrive\obj\Debug\keyoarddrive.pdb

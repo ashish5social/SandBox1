@@ -1,0 +1,6 @@
+C:\sandbox\HackerLandRadio\HackerLandRadio\bin\Debug\HackerLandRadio.exe.config
+C:\sandbox\HackerLandRadio\HackerLandRadio\bin\Debug\HackerLandRadio.exe
+C:\sandbox\HackerLandRadio\HackerLandRadio\bin\Debug\HackerLandRadio.pdb
+C:\sandbox\HackerLandRadio\HackerLandRadio\obj\Debug\HackerLandRadio.csprojResolveAssemblyReference.cache
+C:\sandbox\HackerLandRadio\HackerLandRadio\obj\Debug\HackerLandRadio.exe
+C:\sandbox\HackerLandRadio\HackerLandRadio\obj\Debug\HackerLandRadio.pdb

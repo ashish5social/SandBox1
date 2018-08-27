@@ -1,0 +1,6 @@
+C:\sandbox\ArrayManipulation\ArrayManipulation\bin\Debug\ArrayManipulation.exe.config
+C:\sandbox\ArrayManipulation\ArrayManipulation\bin\Debug\ArrayManipulation.exe
+C:\sandbox\ArrayManipulation\ArrayManipulation\bin\Debug\ArrayManipulation.pdb
+C:\sandbox\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.csprojResolveAssemblyReference.cache
+C:\sandbox\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.exe
+C:\sandbox\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.pdb

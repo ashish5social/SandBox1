@@ -1,0 +1,7 @@
+C:\sandbox\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\sandbox\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\sandbox\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\sandbox\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csprojResolveAssemblyReference.cache
+C:\sandbox\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\sandbox\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\sandbox\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.pdb

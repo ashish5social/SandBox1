@@ -1,0 +1,6 @@
+C:\sandbox\beutifulTriplet\beutifulTriplet\bin\Debug\beutifulTriplet.exe.config
+C:\sandbox\beutifulTriplet\beutifulTriplet\bin\Debug\beutifulTriplet.exe
+C:\sandbox\beutifulTriplet\beutifulTriplet\bin\Debug\beutifulTriplet.pdb
+C:\sandbox\beutifulTriplet\beutifulTriplet\obj\Debug\beutifulTriplet.csprojResolveAssemblyReference.cache
+C:\sandbox\beutifulTriplet\beutifulTriplet\obj\Debug\beutifulTriplet.exe
+C:\sandbox\beutifulTriplet\beutifulTriplet\obj\Debug\beutifulTriplet.pdb

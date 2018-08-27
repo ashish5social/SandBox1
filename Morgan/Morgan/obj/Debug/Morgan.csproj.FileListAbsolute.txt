@@ -1,0 +1,6 @@
+C:\sandbox\Morgan\Morgan\bin\Debug\Morgan.exe.config
+C:\sandbox\Morgan\Morgan\bin\Debug\Morgan.exe
+C:\sandbox\Morgan\Morgan\bin\Debug\Morgan.pdb
+C:\sandbox\Morgan\Morgan\obj\Debug\Morgan.csprojResolveAssemblyReference.cache
+C:\sandbox\Morgan\Morgan\obj\Debug\Morgan.exe
+C:\sandbox\Morgan\Morgan\obj\Debug\Morgan.pdb

@@ -1,0 +1,52 @@
+c:\users\t-atagar\documents\visual studio 2013\Projects\sdkcall\sdkcall\bin\Debug\sdkcall.exe.config
+c:\users\t-atagar\documents\visual studio 2013\Projects\sdkcall\sdkcall\bin\Debug\sdkcall.exe
+c:\users\t-atagar\documents\visual studio 2013\Projects\sdkcall\sdkcall\bin\Debug\sdkcall.pdb
+c:\users\t-atagar\documents\visual studio 2013\Projects\sdkcall\sdkcall\bin\Debug\AntiXSSLibrary.dll
+c:\users\t-atagar\documents\visual studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\t-atagar\documents\visual studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Client.dll
+c:\users\t-atagar\documents\visual studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\t-atagar\documents\visual studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+c:\users\t-atagar\documents\visual studio 2013\Projects\sdkcall\sdkcall\obj\Debug\sdkcall.csprojResolveAssemblyReference.cache
+c:\users\t-atagar\documents\visual studio 2013\Projects\sdkcall\sdkcall\obj\Debug\sdkcall.exe
+c:\users\t-atagar\documents\visual studio 2013\Projects\sdkcall\sdkcall\obj\Debug\sdkcall.pdb
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Crm.Outlook.Sdk.dll
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Crm.Tools.EmailProviders.dll
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Client.CodeGeneration.dll
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Portal.dll
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Portal.Files.dll
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Tooling.CrmConnectControl.dll
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Tooling.CrmConnector.Powershell.dll
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Tooling.PackageDeployment.Powershell.dll
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Tooling.Ui.Styles.dll
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Tooling.WebResourceUtility.dll
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\CrmSvcUtil.exe
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Crm.Outlook.Sdk.xml
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Tooling.CrmConnectControl.xml
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Tooling.CrmConnector.Powershell.xml
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Tooling.WebResourceUtility.xml
+C:\Users\t-atagar\Documents\Visual Studio 2013\Projects\sdkcall\sdkcall\bin\Debug\CrmSvcUtil.xml
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\sdkcall.exe.config
+C:\Personal\Projects\sdkcall\sdkcall\obj\Debug\sdkcall.exe
+C:\Personal\Projects\sdkcall\sdkcall\obj\Debug\sdkcall.pdb
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\sdkcall.exe
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\sdkcall.pdb
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\AntiXSSLibrary.dll
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Client.CodeGeneration.dll
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Portal.dll
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\CrmSvcUtil.exe
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Crm.Outlook.Sdk.xml
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Tooling.CrmConnectControl.xml
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Tooling.CrmConnector.Powershell.xml
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\Microsoft.Xrm.Tooling.WebResourceUtility.xml
+C:\Personal\Projects\sdkcall\sdkcall\bin\Debug\CrmSvcUtil.xml
+C:\Personal\Projects\sdkcall\sdkcall\obj\Debug\sdkcall.csprojResolveAssemblyReference.cache

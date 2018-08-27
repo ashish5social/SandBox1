@@ -1,0 +1,6 @@
+C:\sandbox\Abbreviation\Abbreviation\bin\Debug\Abbreviation.exe.config
+C:\sandbox\Abbreviation\Abbreviation\bin\Debug\Abbreviation.exe
+C:\sandbox\Abbreviation\Abbreviation\bin\Debug\Abbreviation.pdb
+C:\sandbox\Abbreviation\Abbreviation\obj\Debug\Abbreviation.csprojResolveAssemblyReference.cache
+C:\sandbox\Abbreviation\Abbreviation\obj\Debug\Abbreviation.exe
+C:\sandbox\Abbreviation\Abbreviation\obj\Debug\Abbreviation.pdb

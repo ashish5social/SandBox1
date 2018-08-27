@@ -1,0 +1,7 @@
+C:\sandbox\BFSInTree\BFSInTree\bin\Debug\BFSInTree.exe.config
+C:\sandbox\BFSInTree\BFSInTree\bin\Debug\BFSInTree.exe
+C:\sandbox\BFSInTree\BFSInTree\bin\Debug\BFSInTree.pdb
+C:\sandbox\BFSInTree\BFSInTree\obj\Debug\BFSInTree.csprojAssemblyReference.cache
+C:\sandbox\BFSInTree\BFSInTree\obj\Debug\BFSInTree.csproj.CoreCompileInputs.cache
+C:\sandbox\BFSInTree\BFSInTree\obj\Debug\BFSInTree.exe
+C:\sandbox\BFSInTree\BFSInTree\obj\Debug\BFSInTree.pdb

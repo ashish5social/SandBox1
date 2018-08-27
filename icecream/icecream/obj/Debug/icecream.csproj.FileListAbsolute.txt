@@ -1,0 +1,6 @@
+C:\sandbox\icecream\icecream\bin\Debug\icecream.exe.config
+C:\sandbox\icecream\icecream\bin\Debug\icecream.exe
+C:\sandbox\icecream\icecream\bin\Debug\icecream.pdb
+C:\sandbox\icecream\icecream\obj\Debug\icecream.csprojResolveAssemblyReference.cache
+C:\sandbox\icecream\icecream\obj\Debug\icecream.exe
+C:\sandbox\icecream\icecream\obj\Debug\icecream.pdb

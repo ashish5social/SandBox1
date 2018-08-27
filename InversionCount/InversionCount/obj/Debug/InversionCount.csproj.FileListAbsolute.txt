@@ -1,0 +1,6 @@
+C:\sandbox\InversionCount\InversionCount\bin\Debug\InversionCount.exe.config
+C:\sandbox\InversionCount\InversionCount\bin\Debug\InversionCount.exe
+C:\sandbox\InversionCount\InversionCount\bin\Debug\InversionCount.pdb
+C:\sandbox\InversionCount\InversionCount\obj\Debug\InversionCount.csprojResolveAssemblyReference.cache
+C:\sandbox\InversionCount\InversionCount\obj\Debug\InversionCount.exe
+C:\sandbox\InversionCount\InversionCount\obj\Debug\InversionCount.pdb

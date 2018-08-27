@@ -1,0 +1,6 @@
+C:\sandbox\gfg\gfg\bin\Debug\gfg.exe.config
+C:\sandbox\gfg\gfg\bin\Debug\gfg.exe
+C:\sandbox\gfg\gfg\bin\Debug\gfg.pdb
+C:\sandbox\gfg\gfg\obj\Debug\gfg.csprojResolveAssemblyReference.cache
+C:\sandbox\gfg\gfg\obj\Debug\gfg.exe
+C:\sandbox\gfg\gfg\obj\Debug\gfg.pdb

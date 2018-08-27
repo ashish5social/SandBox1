@@ -1,0 +1,6 @@
+C:\sandbox\kangaroo\kangaroo\bin\Debug\kangaroo.exe.config
+C:\sandbox\kangaroo\kangaroo\bin\Debug\kangaroo.exe
+C:\sandbox\kangaroo\kangaroo\bin\Debug\kangaroo.pdb
+C:\sandbox\kangaroo\kangaroo\obj\Debug\kangaroo.csprojResolveAssemblyReference.cache
+C:\sandbox\kangaroo\kangaroo\obj\Debug\kangaroo.exe
+C:\sandbox\kangaroo\kangaroo\obj\Debug\kangaroo.pdb

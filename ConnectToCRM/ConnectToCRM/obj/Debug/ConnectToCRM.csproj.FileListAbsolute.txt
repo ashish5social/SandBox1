@@ -1,0 +1,8 @@
+C:\sandbox\ConnectToCRM\ConnectToCRM\bin\Debug\ConnectToCRM.exe.config
+C:\sandbox\ConnectToCRM\ConnectToCRM\bin\Debug\ConnectToCRM.exe
+C:\sandbox\ConnectToCRM\ConnectToCRM\bin\Debug\ConnectToCRM.pdb
+C:\sandbox\ConnectToCRM\ConnectToCRM\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\sandbox\ConnectToCRM\ConnectToCRM\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\sandbox\ConnectToCRM\ConnectToCRM\obj\Debug\ConnectToCRM.csprojResolveAssemblyReference.cache
+C:\sandbox\ConnectToCRM\ConnectToCRM\obj\Debug\ConnectToCRM.exe
+C:\sandbox\ConnectToCRM\ConnectToCRM\obj\Debug\ConnectToCRM.pdb

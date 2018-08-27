@@ -1,0 +1,6 @@
+C:\sandbox\Arrayman\Arrayman\bin\Debug\Arrayman.exe.config
+C:\sandbox\Arrayman\Arrayman\bin\Debug\Arrayman.exe
+C:\sandbox\Arrayman\Arrayman\bin\Debug\Arrayman.pdb
+C:\sandbox\Arrayman\Arrayman\obj\Debug\Arrayman.csprojResolveAssemblyReference.cache
+C:\sandbox\Arrayman\Arrayman\obj\Debug\Arrayman.exe
+C:\sandbox\Arrayman\Arrayman\obj\Debug\Arrayman.pdb

@@ -1,0 +1,5 @@
+C:\sandbox\MinimumDistannce\MinimumDistannce\bin\Debug\MinimumDistannce.exe.config
+C:\sandbox\MinimumDistannce\MinimumDistannce\bin\Debug\MinimumDistannce.exe
+C:\sandbox\MinimumDistannce\MinimumDistannce\bin\Debug\MinimumDistannce.pdb
+C:\sandbox\MinimumDistannce\MinimumDistannce\obj\Debug\MinimumDistannce.exe
+C:\sandbox\MinimumDistannce\MinimumDistannce\obj\Debug\MinimumDistannce.pdb

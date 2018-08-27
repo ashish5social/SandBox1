@@ -1,0 +1,7 @@
+c:\sand\ListDelete\ListDelete\bin\Debug\ListDelete.exe.config
+c:\sand\ListDelete\ListDelete\bin\Debug\ListDelete.exe
+c:\sand\ListDelete\ListDelete\bin\Debug\ListDelete.pdb
+c:\sand\ListDelete\ListDelete\obj\Debug\ListDelete.csprojResolveAssemblyReference.cache
+c:\sand\ListDelete\ListDelete\obj\Debug\ListDelete.csproj.CoreCompileInputs.cache
+c:\sand\ListDelete\ListDelete\obj\Debug\ListDelete.exe
+c:\sand\ListDelete\ListDelete\obj\Debug\ListDelete.pdb

@@ -1,0 +1,6 @@
+C:\sandbox\LinqLambda\LinqLambda\bin\Debug\LinqLambda.exe.config
+C:\sandbox\LinqLambda\LinqLambda\bin\Debug\LinqLambda.exe
+C:\sandbox\LinqLambda\LinqLambda\bin\Debug\LinqLambda.pdb
+C:\sandbox\LinqLambda\LinqLambda\obj\Debug\LinqLambda.csprojResolveAssemblyReference.cache
+C:\sandbox\LinqLambda\LinqLambda\obj\Debug\LinqLambda.exe
+C:\sandbox\LinqLambda\LinqLambda\obj\Debug\LinqLambda.pdb

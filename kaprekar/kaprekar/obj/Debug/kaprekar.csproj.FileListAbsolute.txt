@@ -1,0 +1,6 @@
+C:\sandbox\kaprekar\kaprekar\bin\Debug\kaprekar.exe.config
+C:\sandbox\kaprekar\kaprekar\bin\Debug\kaprekar.exe
+C:\sandbox\kaprekar\kaprekar\bin\Debug\kaprekar.pdb
+C:\sandbox\kaprekar\kaprekar\obj\Debug\kaprekar.csprojResolveAssemblyReference.cache
+C:\sandbox\kaprekar\kaprekar\obj\Debug\kaprekar.exe
+C:\sandbox\kaprekar\kaprekar\obj\Debug\kaprekar.pdb

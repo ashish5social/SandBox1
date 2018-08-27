@@ -1,0 +1,13 @@
+C:\Users\shasheka\Desktop\Switch_Jai_Bajrang_Bali\FriendShipManager\FriendShipManager\bin\Debug\FriendShipManager.exe.config
+C:\Users\shasheka\Desktop\Switch_Jai_Bajrang_Bali\FriendShipManager\FriendShipManager\bin\Debug\FriendShipManager.exe
+C:\Users\shasheka\Desktop\Switch_Jai_Bajrang_Bali\FriendShipManager\FriendShipManager\bin\Debug\FriendShipManager.pdb
+C:\Users\shasheka\Desktop\Switch_Jai_Bajrang_Bali\FriendShipManager\FriendShipManager\obj\Debug\FriendShipManager.csprojResolveAssemblyReference.cache
+C:\Users\shasheka\Desktop\Switch_Jai_Bajrang_Bali\FriendShipManager\FriendShipManager\obj\Debug\FriendShipManager.exe
+C:\Users\shasheka\Desktop\Switch_Jai_Bajrang_Bali\FriendShipManager\FriendShipManager\obj\Debug\FriendShipManager.pdb
+C:\Users\askumar\Desktop\FriendShipManager\FriendShipManager\bin\Debug\FriendShipManager.exe.config
+C:\Users\askumar\Desktop\FriendShipManager\FriendShipManager\bin\Debug\FriendShipManager.exe
+C:\Users\askumar\Desktop\FriendShipManager\FriendShipManager\bin\Debug\FriendShipManager.pdb
+C:\Users\askumar\Desktop\FriendShipManager\FriendShipManager\obj\Debug\FriendShipManager.csprojAssemblyReference.cache
+C:\Users\askumar\Desktop\FriendShipManager\FriendShipManager\obj\Debug\FriendShipManager.csproj.CoreCompileInputs.cache
+C:\Users\askumar\Desktop\FriendShipManager\FriendShipManager\obj\Debug\FriendShipManager.exe
+C:\Users\askumar\Desktop\FriendShipManager\FriendShipManager\obj\Debug\FriendShipManager.pdb

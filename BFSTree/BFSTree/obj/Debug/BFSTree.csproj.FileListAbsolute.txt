@@ -1,0 +1,6 @@
+C:\sandbox\BFSTree\BFSTree\bin\Debug\BFSTree.exe.config
+C:\sandbox\BFSTree\BFSTree\bin\Debug\BFSTree.exe
+C:\sandbox\BFSTree\BFSTree\bin\Debug\BFSTree.pdb
+C:\sandbox\BFSTree\BFSTree\obj\Debug\BFSTree.csprojResolveAssemblyReference.cache
+C:\sandbox\BFSTree\BFSTree\obj\Debug\BFSTree.exe
+C:\sandbox\BFSTree\BFSTree\obj\Debug\BFSTree.pdb

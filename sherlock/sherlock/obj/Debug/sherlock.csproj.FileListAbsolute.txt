@@ -1,0 +1,6 @@
+C:\sandbox\sherlock\sherlock\bin\Debug\sherlock.exe.config
+C:\sandbox\sherlock\sherlock\bin\Debug\sherlock.exe
+C:\sandbox\sherlock\sherlock\bin\Debug\sherlock.pdb
+C:\sandbox\sherlock\sherlock\obj\Debug\sherlock.csprojResolveAssemblyReference.cache
+C:\sandbox\sherlock\sherlock\obj\Debug\sherlock.exe
+C:\sandbox\sherlock\sherlock\obj\Debug\sherlock.pdb

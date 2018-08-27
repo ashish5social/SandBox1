@@ -1,0 +1,6 @@
+C:\sandbox\MaxOfMin\MaxOfMin\bin\Debug\MaxOfMin.exe.config
+C:\sandbox\MaxOfMin\MaxOfMin\bin\Debug\MaxOfMin.exe
+C:\sandbox\MaxOfMin\MaxOfMin\bin\Debug\MaxOfMin.pdb
+C:\sandbox\MaxOfMin\MaxOfMin\obj\Debug\MaxOfMin.csprojResolveAssemblyReference.cache
+C:\sandbox\MaxOfMin\MaxOfMin\obj\Debug\MaxOfMin.exe
+C:\sandbox\MaxOfMin\MaxOfMin\obj\Debug\MaxOfMin.pdb

@@ -1,0 +1,9 @@
+D:\sandbox\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\sandbox\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\sandbox\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\sandbox\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+D:\sandbox\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\sandbox\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\sandbox\ConsoleApplication4\ConsoleApplication4\bin\Debug\en-US.dic
+D:\sandbox\ConsoleApplication4\ConsoleApplication4\bin\Debug\NetSpell.SpellChecker.dll
+D:\sandbox\ConsoleApplication4\ConsoleApplication4\bin\Debug\NetSpell.SpellChecker.xml

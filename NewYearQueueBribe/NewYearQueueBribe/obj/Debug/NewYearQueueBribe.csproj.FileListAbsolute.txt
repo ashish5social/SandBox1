@@ -1,0 +1,6 @@
+C:\sandbox\NewYearQueueBribe\NewYearQueueBribe\bin\Debug\NewYearQueueBribe.exe.config
+C:\sandbox\NewYearQueueBribe\NewYearQueueBribe\bin\Debug\NewYearQueueBribe.exe
+C:\sandbox\NewYearQueueBribe\NewYearQueueBribe\bin\Debug\NewYearQueueBribe.pdb
+C:\sandbox\NewYearQueueBribe\NewYearQueueBribe\obj\Debug\NewYearQueueBribe.csprojResolveAssemblyReference.cache
+C:\sandbox\NewYearQueueBribe\NewYearQueueBribe\obj\Debug\NewYearQueueBribe.exe
+C:\sandbox\NewYearQueueBribe\NewYearQueueBribe\obj\Debug\NewYearQueueBribe.pdb

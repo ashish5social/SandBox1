@@ -1,0 +1,6 @@
+C:\sandbox\LCS\LCS\bin\Debug\LCS.exe.config
+C:\sandbox\LCS\LCS\bin\Debug\LCS.exe
+C:\sandbox\LCS\LCS\bin\Debug\LCS.pdb
+C:\sandbox\LCS\LCS\obj\Debug\LCS.csprojResolveAssemblyReference.cache
+C:\sandbox\LCS\LCS\obj\Debug\LCS.exe
+C:\sandbox\LCS\LCS\obj\Debug\LCS.pdb

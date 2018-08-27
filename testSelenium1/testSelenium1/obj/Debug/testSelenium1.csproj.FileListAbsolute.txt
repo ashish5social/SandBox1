@@ -1,0 +1,10 @@
+C:\sandbox\testSelenium1\testSelenium1\bin\Debug\testSelenium1.exe.config
+C:\sandbox\testSelenium1\testSelenium1\bin\Debug\testSelenium1.exe
+C:\sandbox\testSelenium1\testSelenium1\bin\Debug\testSelenium1.pdb
+C:\sandbox\testSelenium1\testSelenium1\bin\Debug\WebDriver.dll
+C:\sandbox\testSelenium1\testSelenium1\bin\Debug\WebDriver.Support.dll
+C:\sandbox\testSelenium1\testSelenium1\bin\Debug\WebDriver.xml
+C:\sandbox\testSelenium1\testSelenium1\bin\Debug\WebDriver.Support.xml
+C:\sandbox\testSelenium1\testSelenium1\obj\Debug\testSelenium1.csprojResolveAssemblyReference.cache
+C:\sandbox\testSelenium1\testSelenium1\obj\Debug\testSelenium1.exe
+C:\sandbox\testSelenium1\testSelenium1\obj\Debug\testSelenium1.pdb

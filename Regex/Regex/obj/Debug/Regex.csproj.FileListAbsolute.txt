@@ -1,0 +1,6 @@
+C:\sandbox\Regex\Regex\bin\Debug\Regex.exe.config
+C:\sandbox\Regex\Regex\bin\Debug\Regex.exe
+C:\sandbox\Regex\Regex\bin\Debug\Regex.pdb
+C:\sandbox\Regex\Regex\obj\Debug\Regex.csprojResolveAssemblyReference.cache
+C:\sandbox\Regex\Regex\obj\Debug\Regex.exe
+C:\sandbox\Regex\Regex\obj\Debug\Regex.pdb

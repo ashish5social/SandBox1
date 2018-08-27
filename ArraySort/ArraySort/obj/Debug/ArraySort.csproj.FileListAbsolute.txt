@@ -1,0 +1,6 @@
+C:\sandbox\ArraySort\ArraySort\bin\Debug\ArraySort.exe.config
+C:\sandbox\ArraySort\ArraySort\bin\Debug\ArraySort.exe
+C:\sandbox\ArraySort\ArraySort\bin\Debug\ArraySort.pdb
+C:\sandbox\ArraySort\ArraySort\obj\Debug\ArraySort.csprojResolveAssemblyReference.cache
+C:\sandbox\ArraySort\ArraySort\obj\Debug\ArraySort.exe
+C:\sandbox\ArraySort\ArraySort\obj\Debug\ArraySort.pdb

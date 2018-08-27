@@ -1,0 +1,1 @@
+C:\sandbox\regex1\regex1\bin\Debug\regex1.exe.config

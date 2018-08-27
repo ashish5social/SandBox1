@@ -1,0 +1,6 @@
+C:\sandbox\alternating\alternating\bin\Debug\alternating.exe.config
+C:\sandbox\alternating\alternating\bin\Debug\alternating.exe
+C:\sandbox\alternating\alternating\bin\Debug\alternating.pdb
+C:\sandbox\alternating\alternating\obj\Debug\alternating.csprojResolveAssemblyReference.cache
+C:\sandbox\alternating\alternating\obj\Debug\alternating.exe
+C:\sandbox\alternating\alternating\obj\Debug\alternating.pdb

@@ -1,0 +1,6 @@
+C:\sandbox\CavityMap\CavityMap\bin\Debug\CavityMap.exe.config
+C:\sandbox\CavityMap\CavityMap\bin\Debug\CavityMap.exe
+C:\sandbox\CavityMap\CavityMap\bin\Debug\CavityMap.pdb
+C:\sandbox\CavityMap\CavityMap\obj\Debug\CavityMap.csprojResolveAssemblyReference.cache
+C:\sandbox\CavityMap\CavityMap\obj\Debug\CavityMap.exe
+C:\sandbox\CavityMap\CavityMap\obj\Debug\CavityMap.pdb

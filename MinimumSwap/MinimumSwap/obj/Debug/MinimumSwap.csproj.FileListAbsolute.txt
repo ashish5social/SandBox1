@@ -1,0 +1,6 @@
+C:\sandbox\MinimumSwap\MinimumSwap\bin\Debug\MinimumSwap.exe.config
+C:\sandbox\MinimumSwap\MinimumSwap\bin\Debug\MinimumSwap.exe
+C:\sandbox\MinimumSwap\MinimumSwap\bin\Debug\MinimumSwap.pdb
+C:\sandbox\MinimumSwap\MinimumSwap\obj\Debug\MinimumSwap.csprojResolveAssemblyReference.cache
+C:\sandbox\MinimumSwap\MinimumSwap\obj\Debug\MinimumSwap.exe
+C:\sandbox\MinimumSwap\MinimumSwap\obj\Debug\MinimumSwap.pdb

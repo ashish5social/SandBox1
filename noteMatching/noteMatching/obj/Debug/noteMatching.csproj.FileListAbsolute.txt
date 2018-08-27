@@ -1,0 +1,6 @@
+C:\sandbox\noteMatching\noteMatching\bin\Debug\noteMatching.exe.config
+C:\sandbox\noteMatching\noteMatching\bin\Debug\noteMatching.exe
+C:\sandbox\noteMatching\noteMatching\bin\Debug\noteMatching.pdb
+C:\sandbox\noteMatching\noteMatching\obj\Debug\noteMatching.csprojResolveAssemblyReference.cache
+C:\sandbox\noteMatching\noteMatching\obj\Debug\noteMatching.exe
+C:\sandbox\noteMatching\noteMatching\obj\Debug\noteMatching.pdb

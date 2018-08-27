@@ -1,0 +1,6 @@
+C:\sandbox\HowManyToys\HowManyToys\bin\Debug\HowManyToys.exe.config
+C:\sandbox\HowManyToys\HowManyToys\bin\Debug\HowManyToys.exe
+C:\sandbox\HowManyToys\HowManyToys\bin\Debug\HowManyToys.pdb
+C:\sandbox\HowManyToys\HowManyToys\obj\Debug\HowManyToys.csprojResolveAssemblyReference.cache
+C:\sandbox\HowManyToys\HowManyToys\obj\Debug\HowManyToys.exe
+C:\sandbox\HowManyToys\HowManyToys\obj\Debug\HowManyToys.pdb

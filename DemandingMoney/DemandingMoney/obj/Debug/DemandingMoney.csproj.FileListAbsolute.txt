@@ -1,0 +1,6 @@
+C:\sandbox\DemandingMoney\DemandingMoney\bin\Debug\DemandingMoney.exe.config
+C:\sandbox\DemandingMoney\DemandingMoney\bin\Debug\DemandingMoney.exe
+C:\sandbox\DemandingMoney\DemandingMoney\bin\Debug\DemandingMoney.pdb
+C:\sandbox\DemandingMoney\DemandingMoney\obj\Debug\DemandingMoney.csprojResolveAssemblyReference.cache
+C:\sandbox\DemandingMoney\DemandingMoney\obj\Debug\DemandingMoney.exe
+C:\sandbox\DemandingMoney\DemandingMoney\obj\Debug\DemandingMoney.pdb

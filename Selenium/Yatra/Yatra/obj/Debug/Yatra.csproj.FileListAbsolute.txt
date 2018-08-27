@@ -1,0 +1,9 @@
+C:\Users\askumar\Desktop\Selenium\Yatra\Yatra\bin\Debug\Yatra.dll
+C:\Users\askumar\Desktop\Selenium\Yatra\Yatra\bin\Debug\Yatra.pdb
+C:\Users\askumar\Desktop\Selenium\Yatra\Yatra\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\askumar\Desktop\Selenium\Yatra\Yatra\bin\Debug\WebDriver.dll
+C:\Users\askumar\Desktop\Selenium\Yatra\Yatra\bin\Debug\WebDriver.xml
+C:\Users\askumar\Desktop\Selenium\Yatra\Yatra\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\askumar\Desktop\Selenium\Yatra\Yatra\obj\Debug\Yatra.csprojResolveAssemblyReference.cache
+C:\Users\askumar\Desktop\Selenium\Yatra\Yatra\obj\Debug\Yatra.dll
+C:\Users\askumar\Desktop\Selenium\Yatra\Yatra\obj\Debug\Yatra.pdb

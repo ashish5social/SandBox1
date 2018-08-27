@@ -1,0 +1,6 @@
+C:\sandbox\pangrams\pangrams\bin\Debug\pangrams.exe.config
+C:\sandbox\pangrams\pangrams\bin\Debug\pangrams.exe
+C:\sandbox\pangrams\pangrams\bin\Debug\pangrams.pdb
+C:\sandbox\pangrams\pangrams\obj\Debug\pangrams.csprojResolveAssemblyReference.cache
+C:\sandbox\pangrams\pangrams\obj\Debug\pangrams.exe
+C:\sandbox\pangrams\pangrams\obj\Debug\pangrams.pdb
